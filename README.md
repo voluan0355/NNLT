@@ -11,3 +11,9 @@
 - [ Bài 4.1](https://www.jdoodle.com/embed/v0/5CHK)
 ## Phần BT 26/12/2022
 - [ Bài tại lớp](https://www.jdoodle.com/embed/v0/5FUa)
+### [BTLT](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
+## Phần (If,switch)
+- [ Bài 1](https://www.jdoodle.com/embed/v0/5F1V)
+- [ Bài 2](https://www.jdoodle.com/embed/v0/5FUn)
+- [ Bài 3](https://www.jdoodle.com/embed/v0/5FUp)
+- [ Bài 4](https://www.jdoodle.com/embed/v0/5FUr)
