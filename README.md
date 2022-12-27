@@ -17,7 +17,7 @@
 
 - [ Bài tại lớp](https://www.jdoodle.com/embed/v0/5FUa)
 
-# [Phần btvn(for,while;do/while)](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
+## [Phần btvn(for,while;do/while)](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
 
 - [ BTVN.B3](https://www.jdoodle.com/embed/v0/5G1O)
 - [ BTVN.B2](https://www.jdoodle.com/embed/v0/5G1R)
