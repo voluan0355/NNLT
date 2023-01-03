@@ -33,3 +33,10 @@
 - [ Bài 2](https://www.jdoodle.com/embed/v0/5FUn)
 - [ Bài 3](https://www.jdoodle.com/embed/v0/5FUp)
 - [ Bài 4](https://www.jdoodle.com/embed/v0/5FUr)
+
+## Phàn BT  3/1/2023
+
+ [ Bài 1](https://www.jdoodle.com/a/5GH2)
+
+
+
