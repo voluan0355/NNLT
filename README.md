@@ -2,10 +2,10 @@
 
 ## Phần If else
 
-- [Bài 3.1](https://www.jdoodle.com/embed/v0/5AwQ)
-- [Bài 3.2](https://www.jdoodle.com/embed/v0/5AwR)
-- [Bài 3.3](https://www.jdoodle.com/embed/v0/5Ax3)
-- [Bài 3.4](https://www.jdoodle.com/embed/v0/5Axw)
+- [Bài 3.1](https://www.jdoodle.com/a/5AwQ)
+- [Bài 3.2](https://www.jdoodle.com/a/5AwR)
+- [Bài 3.3](https://www.jdoodle.com/a/5Ax3)
+- [Bài 3.4](https://www.jdoodle.com/a/5Axw)
  
 ## Phần BT 20/12/2022
 
@@ -34,9 +34,9 @@
 - [ Bài 3](https://www.jdoodle.com/embed/v0/5FUp)
 - [ Bài 4](https://www.jdoodle.com/embed/v0/5FUr)
 
-## Phàn BT  3/1/2023
+## Phần BT  3/1/2023
 
- [ Bài 1](https://www.jdoodle.com/a/5GH2)
+- [ Bài 1](https://www.jdoodle.com/a/5GH2)
 
 
 
