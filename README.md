@@ -13,11 +13,11 @@
 - [ Bài 2](https://www.jdoodle.com/a/5F34)
 ## Phần các câu lệnh lặp
 
-- [ Bài 4.1](https://www.jdoodle.com/embed/v0/5CHK)
+- [ Bài 4.1](https://www.jdoodle.com/a/5CHK)
 
 ## Phần BT 26/12/2022
 
-- [ Bài tại lớp](https://www.jdoodle.com/embed/v0/5FUa)
+- [ Bài tại lớp](https://www.jdoodle.com/a/5FUa)
 
 ## [Phần btvn(for,do/while)](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
 
