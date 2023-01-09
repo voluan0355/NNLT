@@ -21,9 +21,9 @@
 
 ## [Phần btvn(for,do/while)](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
 
-- [ BTVN.B3](https://www.jdoodle.com/embed/v0/5G1O)
-- [ BTVN.B2](https://www.jdoodle.com/embed/v0/5G1R)
-- [ BTVN.B3](https://www.jdoodle.com/embed/v0/5G1W)
+- [ BTVN.B3](https://www.jdoodle.com/a/5G1O)
+- [ BTVN.B2](https://www.jdoodle.com/a/5G1R)
+- [ BTVN.B3](https://www.jdoodle.com/a/5G1W)
 
 ## [BTLT](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
 
