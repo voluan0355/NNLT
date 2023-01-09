@@ -29,8 +29,8 @@
 
 ## Phần (If,switch)
 
-- [ Bài 1](https://www.jdoodle.com/embed/v0/5F1V)
-- [ Bài 2](https://www.jdoodle.com/embed/v0/5FUn)
+- [ Bài 1](https://www.jdoodle.com/a/5FUm)
+- [ Bài 2](https://www.jdoodle.com/a/5FUn)
 - [ Bài 3](https://www.jdoodle.com/embed/v0/5FUp)
 - [ Bài 4](https://www.jdoodle.com/embed/v0/5FUr)
 
