@@ -37,6 +37,8 @@
 ## Phần BT  3/1/2023
 
 - [ Bài 1](https://www.jdoodle.com/a/5GH2)
+## Phần BT Hàm
 
+- [ Bài 1](https://www.jdoodle.com/a/5Inc)
 
 
