@@ -40,6 +40,6 @@
 ## Phần BT Hàm
 
 - [ Bài 1](https://www.jdoodle.com/a/5Inc)
-## Phần bài thi 12/1/2023
-- [ Bài 1](https://www.jdoodle.com/a/5IIN)
+
+# [Thi 12/1/2023](https://www.jdoodle.com/a/5IIN)
 
